@@ -1,5 +1,5 @@
 一个ChatGPT账号和秘钥相关的AI售货机在线商店，同时还包括各种优质的网站源码，工具等资源。[AI售货机购买地址](https://shop.soujiz.com/)
-# ✅购买说明：
+## ✅购买说明：
 
 1、由于OpenAI平台禁止大陆IP访问和登录，不建议使用亚洲和新加坡地区节点，请使用美国/日本等国外IP（梯子）访问！梯子请自行解决。
 
@@ -14,7 +14,7 @@ OpenAi 账号管理地址：https://openai.com/api
 账号余额消费完也可以长期在ChatGPT机器人地址：https://chat.openai.com 使用，该网站免费且不消耗额度
 大部分人需要用到的其实就是这个ChatGPT机器人，不需要调用API，零学习成本。
 
-# ✅产品说明：
+## ✅产品说明：
 
 1、OpenAI官方ChaTGPT3.5帐号独享成品号，一人一号，不限制字数会话，是个人独享号买断制，稳定安全。
 
@@ -24,16 +24,16 @@ OpenAi 账号管理地址：https://openai.com/api
 
 4、账号来源于站长手工美区IP注册，货真价实，相比其他平台机器批量注册的账号，更加稳定质量更高。
 
-# ✅使用方法：
+## ✅使用方法：
 
-## 方法1有梯子：
+### 方法1有梯子：
 打开ChatGPT官方地址：https://chat.openai.com/auth/login，进入后使用账号登录后，即可使用强大的chatgpt相关功能。
 
 账号登录后，如需添加更多秘钥，可访问官方秘钥添加地址：https://platform.openai.com/account/api-keys 
 
 添加秘钥以及查看账号使用量方式如图：
 
-## 方法2无需梯子：
+### 方法2无需梯子：
 只要将下单后的API-KEY秘钥(sk-开头)，输入下方搭建好的ChatGPT在线网站中立马使用。
 
 ChatGPT1: gpt2.soujiz.com 【推荐新UI界面版，访问速度更快🔑，江苏地区无法访问被拦截】
@@ -44,7 +44,10 @@ ChatGPT2: chat.soujiz.com 【仿官方界面版 🔑】
 
 秘钥同样也可适用于国内其他第三方的ChatGPT网站，输入即可使用官网chatgpt相关功能。
 
-# ✅ 常见问题：
+## ✅购买地址
+[https://shop.soujiz.com/](https://shop.soujiz.com/)
+
+## ✅常见问题：
 
 1、什么是ChatGPT？
 
