@@ -26,15 +26,18 @@ OpenAi 账号管理地址：https://openai.com/api
 
 4、账号来源于站长手工美区IP注册，货真价实，相比其他平台机器批量注册的账号，更加稳定质量更高。
 
-## ✅使用方法：
+## ✅chatgpt网站[使用方法]
 
 ### 方法1有梯子：
+
 打开ChatGPT官方地址：https://chat.openai.com/auth/login，进入后使用账号登录后，即可使用强大的chatgpt相关功能。
+
 账号登录后，如需添加更多秘钥，可访问官方秘钥添加地址：https://platform.openai.com/account/api-keys 
 
 添加秘钥以及查看账号使用量方式如图：
 
 ### 方法2无需梯子：
+
 只要将下单后的API-KEY秘钥(sk-开头)，输入下方搭建好的ChatGPT在线网站中立马使用。
 
 ChatGPT1: [gpt2.soujiz.com](https://gpt2.soujiz.com) 【推荐新UI界面版，访问速度更快🔑，江苏地区无法访问被拦截】
