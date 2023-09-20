@@ -5,7 +5,7 @@
 
 2、对大部分人的需求是直接使用，所以直接使用附送的API-KEY秘钥进行使用，实现即买即用，国内网络是不受影响！！！
 
-## 独享账户说明：
+## ✅独享账户说明：
 1.隐私安全有保障。
 2.使用官网chat的时候，不会泄露隐私，因为只有你自己用，花小钱得安心！
 3.共享账号容易被封，太多人使用，乱七八糟。 独享账号和QQ号类似，只要OpenAI不倒闭你就能一直使用。
@@ -28,7 +28,6 @@ OpenAi 账号管理地址：https://openai.com/api
 
 ### 方法1有梯子：
 打开ChatGPT官方地址：https://chat.openai.com/auth/login，进入后使用账号登录后，即可使用强大的chatgpt相关功能。
-
 账号登录后，如需添加更多秘钥，可访问官方秘钥添加地址：https://platform.openai.com/account/api-keys 
 
 添加秘钥以及查看账号使用量方式如图：
@@ -36,11 +35,11 @@ OpenAi 账号管理地址：https://openai.com/api
 ### 方法2无需梯子：
 只要将下单后的API-KEY秘钥(sk-开头)，输入下方搭建好的ChatGPT在线网站中立马使用。
 
-ChatGPT1: gpt2.soujiz.com 【推荐新UI界面版，访问速度更快🔑，江苏地区无法访问被拦截】
+ChatGPT1: [gpt2.soujiz.com](https://gpt2.soujiz.com) 【推荐新UI界面版，访问速度更快🔑，江苏地区无法访问被拦截】
 
 ChatGPT1秘钥填写，如图所示：
 
-ChatGPT2: chat.soujiz.com 【仿官方界面版 🔑】
+ChatGPT2: [chat.soujiz.com](https://chat.soujiz.com) 【仿官方界面版 🔑】
 
 秘钥同样也可适用于国内其他第三方的ChatGPT网站，输入即可使用官网chatgpt相关功能。
 
