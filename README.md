@@ -49,7 +49,7 @@ ChatGPT2: [chat.soujiz.com](https://chat.soujiz.com) 【仿官方界面版 🔑�
 秘钥同样也可适用于国内其他第三方的ChatGPT网站，输入即可使用官网chatgpt相关功能。
 
 ## ✅购买地址
-[https://shop.soujiz.com/](https://shop.soujiz.com/)
+[https://vipgpt.soujiz.com/](https://vipgpt.soujiz.com/)
 
 ## ✅常见问题：
 
