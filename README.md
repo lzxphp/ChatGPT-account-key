@@ -1,4 +1,4 @@
-一个ChatGPT账号和秘钥相关的AI售货机在线商店，同时还包括各种优质的网站源码，工具等资源。[AI售货机购买地址](https://vipgpt.soujiz.com/)
+一个ChatGPT账号和秘钥相关的AI售货机在线商店，同时还包括各种优质的网站源码，工具等资源。[ChatGPt账号获取地址](https://vipgpt.soujiz.com/)
 
 ![AI售货机 vipgpt.suojiz.com](0be4bbc0310fddd6fc803968a1ba447c6501c5482aa2e.jpg)
 ## ✅2023/9/23 更新（推荐）
